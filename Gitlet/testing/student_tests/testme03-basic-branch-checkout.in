@@ -1,0 +1,40 @@
+# A simple test of adding, committing, modifying, and checking out.
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "added wug"
+<<<
+> branch cool-branch
+<<<
+> rm wug.txt
+<<<
+* wug.txt
+> commit "removed wug"
+<<<
++ notwug.txt notwug.txt
+> add notwug.txt
+<<<
+> commit "added notwug"
+<<<
+E notwug.txt
+* wug.txt
+#checkout branch before removal
+> checkout cool-branch
+<<<
+* notwug.txt
+E wug.txt
+> rm-branch cool-branch
+Cannot remove the current branch.
+<<<
+> checkout master
+<<<
+> rm-branch cool-branch
+<<<
+> rm-branch cool-branch
+A branch with that name does not exist.
+<<<
+> rm-branch master
+Cannot remove the current branch.
+<<<

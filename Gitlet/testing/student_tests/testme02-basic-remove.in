@@ -1,0 +1,23 @@
+# A simple test of adding, committing, modifying, and checking out.
+> init
+<<<
++ wug.txt wug.txt
+> add wug.txt
+<<<
+> commit "added wug"
+<<<
+> rm wug.txt
+<<<
+* wug.txt
+> checkout -- wug.txt
+<<<
+E wug.txt
+> commit "removed wug"
+<<<
+> checkout -- wug.txt
+File does not exist in that commit.
+<<<
++ notwug.txt notwug.txt
+> rm notwug.txt
+No reason to remove the file.
+<<<
