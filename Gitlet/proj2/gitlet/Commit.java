@@ -45,7 +45,7 @@ public class Commit implements Serializable {
         this.secondParent = secondParent;
         if (parent == null) {
             this.date = new Date(0);
-            trackedFiles = new TreeMap<>();
+            trackedFiles = new TreeMap<File, String>();
         } else {
             this.date = new Date();
             /** copy the tracked files from parent */
