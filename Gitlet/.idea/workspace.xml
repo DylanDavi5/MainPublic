@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b5a4d2e-df6b-4081-8fa8-ca2af5889951" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/Commit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/DumpObj.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/Dumpable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/GitletException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/Repository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gitlet/Utils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proj2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/runner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/samples/definitions.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/samples/test01-init.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/samples/test02-basic-checkout.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/samples/test03-basic-log.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/samples/test04-prev-checkout.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/a.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/b.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/conflict1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/conflict2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/d.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/e.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/g.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/nota.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/notb.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/notf.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/notwug.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/wug.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/wug2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/src/wug3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/staff-runner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/definitions.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme01-commit-hash-issue.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme02-basic-remove.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme03-basic-branch-checkout.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme04-basic-status.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme05-add-remove-status.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme06-merge-no-conflicts.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme07-the-motherload.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme08-merge-conflict.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme09-another-merge-test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/student_tests/testme10-short-uid.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing/tester.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\dylyd\Documents\school_work\CS61B\sp21-s708\library-sp21\javalib" />
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pYHRy7Mabr220tkp02NlCW3wyr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/proj2/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b5a4d2e-df6b-4081-8fa8-ca2af5889951" name="Default Changelist" comment="" />
+      <created>1615353100212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615353100212</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
